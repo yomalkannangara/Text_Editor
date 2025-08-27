@@ -54,11 +54,7 @@ A lightweight yet powerful **Text Editor for Android**, designed for writing, ed
 - **Functionality (75%)** – Full editor and compiler integration  
 - **Code Quality (15%)** – Modular, clean, and well-commented  
 - **Documentation & Presentation (15%)** – README, report, and demonstration video  
-
----
-
-## 📸 Screenshots / Demo  
-*(Add screenshots or GIFs of your app here)*  
+ 
 
 ---
 
