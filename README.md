@@ -1,5 +1,10 @@
 # 📘 Android Text Editor with Kotlin Support  
 
+![Kotlin](https://img.shields.io/badge/Kotlin-1.9-blue?logo=kotlin)  
+![Android](https://img.shields.io/badge/Android-9%2B-brightgreen?logo=android)  
+![Platform](https://img.shields.io/badge/Platform-Mobile-lightgrey)  
+![License](https://img.shields.io/badge/License-Educational-important)  
+
 A lightweight yet powerful **Text Editor for Android**, designed for writing, editing, and testing **Kotlin code** directly on mobile devices. This project was developed as part of the **IS2205 – Mobile Application Design and Development** coursework, with the goal of combining core text editing features and developer-oriented enhancements such as syntax highlighting and compiler integration.  
 
 ---
@@ -60,7 +65,7 @@ A lightweight yet powerful **Text Editor for Android**, designed for writing, ed
 ## 📦 Installation  
 1. Clone this repository  
    ```bash
-   git clone https://github.com/yourusername/TextEditorApp.git
+   git clone https://github.com/yomalkannangara/Text_Editor.git
    cd TextEditorApp
    ```
 2. Open the project in **Android Studio**  
@@ -70,7 +75,7 @@ A lightweight yet powerful **Text Editor for Android**, designed for writing, ed
 ---
 
 ## 👥 Team Members  
-- *Your Names & Index Numbers Here*  
+- 23020458-DYAKannangara 
 
 ---
 
