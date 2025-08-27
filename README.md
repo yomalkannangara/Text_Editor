@@ -50,14 +50,6 @@ A lightweight yet powerful **Text Editor for Android**, designed for writing, ed
 
 ---
 
-## 📊 Grading Criteria (Assignment Scope)  
-- **Functionality (75%)** – Full editor and compiler integration  
-- **Code Quality (15%)** – Modular, clean, and well-commented  
-- **Documentation & Presentation (15%)** – README, report, and demonstration video  
- 
-
----
-
 ## 📦 Installation  
 1. Clone this repository  
    ```bash
