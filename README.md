@@ -54,7 +54,7 @@ A lightweight yet powerful **Text Editor for Android**, designed for writing, ed
 1. Clone this repository  
    ```bash
    git clone https://github.com/yomalkannangara/Text_Editor.git
-   cd TextEditorApp
+   cd Text_Editor
    ```
 2. Open the project in **Android Studio**  
 3. Build and run on an Android device (API 28+)  
