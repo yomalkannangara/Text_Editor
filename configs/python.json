@@ -1,0 +1,13 @@
+{
+  "language": "python",
+  "keywords": ["def", "class", "import", "return", "if", "else", "for", "while"],
+  "comment": "#",
+  "stringDelimiters": ["\"", "'"],
+  "colors": {
+    "keyword": "#569CD6",
+    "comment": "#6A9955",
+    "string": "#D69D85",
+    "number": "#B5CEA8",
+    "base": "#E5E7EB"
+  }
+}
