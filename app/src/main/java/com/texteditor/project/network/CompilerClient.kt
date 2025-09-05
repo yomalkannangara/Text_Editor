@@ -18,8 +18,8 @@ class CompilerClient {
         return try {
             conn.requestMethod = "POST"
             conn.doOutput = true
-            conn.connectTimeout = 8000
-            conn.readTimeout = 15000
+            conn.connectTimeout = 30000
+            conn.readTimeout = 120000
             conn.setRequestProperty("Content-Type", "text/plain; charset=utf-8")
             conn.setRequestProperty("Accept", "application/json")
             conn.outputStream.use { it.write(code.toByteArray(Charsets.UTF_8)) }
