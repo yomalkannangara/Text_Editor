@@ -63,7 +63,11 @@ A lightweight yet powerful **Text Editor for Android**, designed for writing, ed
 ---
 
 ## 👥 Team Members  
-- 23020458-DYAKannangara 
+- 23020458-DYAKannangara
+- 23021012 W.H.A.Sithummal
+- 23020172 S.M Dilana deepika
+
+
 
 ---
 
